@@ -1,0 +1,30 @@
+{"respone":
+  {  
+     "books":{  
+        "cod":"2",
+        "name":"",
+        "publish_date":"\/Date(1297293089984-0800)\/",
+        "price":0,
+        "discount":0,
+        "ventor":""
+     },
+     "booksDetail":[  
+        {  
+           "cod":"2",
+           "name":"",
+           "author":"",
+           "price":0,
+           "discount":0,
+           "category":""
+        },
+        {  
+           "cod":"",
+           "name":"",
+           "author":"",
+           "price":0,
+           "discount":0,
+           "category":""
+        }
+     ]
+  }
+}
